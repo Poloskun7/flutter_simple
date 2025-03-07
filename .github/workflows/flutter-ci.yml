@@ -24,7 +24,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.13.0' # Укажите нужную версию Flutter
+          flutter-version: '3.27.1' # Укажите нужную версию Flutter
 
       # Шаг 3: Получение зависимостей
       - name: Get dependencies
